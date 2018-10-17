@@ -44,5 +44,10 @@ namespace Class07Demo
             }
 
         }
+
+        static void LibraryExample()
+        {
+            Book book 
+        }
     }
 }
